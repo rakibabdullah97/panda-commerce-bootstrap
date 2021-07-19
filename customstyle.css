@@ -1,0 +1,15 @@
+.panda-bg-info{
+    background-color:#fceae8;
+}
+.catagorise-img{
+    width: 100px;
+    height: 100px;
+}
+.panda-buy-now-btn{
+   color: white;
+   background-color: pink ;
+   border-radius: 8px;
+   padding: 9px 25px;
+   border: none;
+
+}
